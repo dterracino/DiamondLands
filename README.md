@@ -1,0 +1,2 @@
+# DiamondLands
+Diamond-square algorithm
